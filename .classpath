@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JRE [1.6.0_65]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="oracle.eclipse.tools.glassfish.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/axis.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/c3p0.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/ccws.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/comverse-in.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/csvjdbc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/eji.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/FSSServerLib.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/imqbroker.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/imqjmsbridge.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/imqjmsra.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/imqjmx.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/imqstomp.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/jaxen-1.1-beta-9.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/spring-1.2.6.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/stax-utils-20040917.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/wss4j-1.5.3.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/xbean-spring-2.8.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/xfire-all-1.2.6.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DATA/Cong viec/Du_an/NMS/PaymentGateway_Project/SourceCode/lib/xmlsec-1.4.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

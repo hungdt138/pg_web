@@ -1,0 +1,8 @@
+<beans xmlns="http://xfire.codehaus.org/config/1.0">
+  <service>
+    <name>paymentgw</name>
+    <namespace>http://iwebservice.nms.com</namespace>
+    <serviceClass>com.nms.iwebservice.PaymentServices</serviceClass>
+    <implementationClass>com.nms.iwebservice.impl.PaymentImpl</implementationClass>
+  </service>
+</beans>
